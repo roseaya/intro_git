@@ -3,3 +3,4 @@ git の練習をしていきます.
 ・git sdd
 ・gitremove
 ・git status
+・git diff
